@@ -1,2 +1,3 @@
-# vtm-frontend-codeguide
-A Frontend CodeGuide for myself and others
+## Frontend Codeguide
+Why did the Frontend Developer leave the Restaurant ? 
+Because of the Table Layout. 
